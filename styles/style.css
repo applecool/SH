@@ -39,7 +39,7 @@ header {
 }
 body {
   font-family: 'Libre Baskerville', serif;
-  /*-apple-system*/
+  -apple-system
 }
 .page-wrap {
   min-height: 100%;
