@@ -64,12 +64,12 @@ body {
 .hearts {
   color: red;
 }
-a{
+a {
   color: white;
 }
-a:link{
+a:link {
   text-decoration: none;
 }
-a:hover{
+a:hover {
   color: gray;
 }
